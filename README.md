@@ -1,7 +1,7 @@
-<img src="https://github.com/snail007/goproxy/blob/master/docs/images/logo.jpg?raw=true" width="200"/>
+<img src="https://github.com/chawler/wentproxy/blob/master/docs/images/logo.jpg?raw=true" width="200"/>
 Proxy is a high performance HTTP, HTTPS, HTTPS, websocket, TCP, UDP, Socks5, ss proxy server implemented by golang. It supports parent proxy,nat forward,TCP/UDP port forwarding, SSH transfer, TLS encrypted transmission, protocol conversion. you can expose a local server behind a NAT or firewall to the internet, secure DNS proxy.  
 
-[Download](https://github.com/snail007/goproxy/releases) 
+[Download](https://github.com/chawler/wentproxy/releases) 
 
 ---  
   
